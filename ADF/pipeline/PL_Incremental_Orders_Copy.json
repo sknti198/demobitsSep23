@@ -1,6 +1,7 @@
 {
 	"name": "PL_Incremental_Orders_Copy",
 	"properties": {
+		"description": "This pipeline we are using for to test the Git pull and push request aswell.",
 		"activities": [
 			{
 				"name": "LKP_OldWaterMarkValue",
